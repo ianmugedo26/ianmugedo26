@@ -1,5 +1,32 @@
-# 💫 About Me:
-# 👋 Hi, I'm Ian<br><br>### Software Engineer | Blockchain & Distributed Systems Enthusiast<br><br>I'm a software engineer passionate about blockchain technology, distributed systems, and decentralized architectures. I enjoy exploring how cryptography, peer-to-peer networking, and fault-tolerant systems can be used to build secure, reliable, and scalable software.<br><br>My focus is on understanding the engineering principles behind decentralized technologies and turning them into practical solutions through hands-on development, experimentation, and continuous learning.<br><br>### 🔭 Areas of Focus<br>- ⛓️ Blockchain Technology — Distributed ledgers, cryptographic foundations, and decentralized applications.<br>- 🌐 Peer-to-Peer Networking — Building systems that enable direct communication and coordination between nodes.<br>- 🛡️ Fault-Tolerant Systems — Exploring system reliability, resilience, and recovery in distributed environments.<br>- 🔐 Applied Cryptography — Understanding the cryptographic mechanisms that support security and trust in decentralized systems.<br>- 💻 Software Engineering — Designing, building, testing, and improving practical software solutions.<br><br>### 🛠️ Technologies & Tools<br>- Languages: Go, Python, TypeScript<br>- Interests: Blockchain, distributed systems, P2P networks, cryptography, decentralized applications<br>-Tools: Git, GitHub, Linux<br><br>### 🎯 My Mission<br>To deepen my expertise in blockchain and distributed systems by building meaningful projects, solving challenging engineering problems, and contributing to technologies that make digital systems more secure, transparent, and resilient.<br><br>### 🤝 Let's Connect<br>I'm always interested in collaborating on projects involving blockchain, decentralized technologies, networking, and systems engineering.<br><br>Build. Learn. Experiment. Decentralize.
+# 👋 Hi, I'm Ian
+
+### Blockchain Developer | Software Engineer | Distributed Systems
+
+I'm a software engineer focused on **blockchain technology, distributed systems, and decentralized architectures**. I'm interested in how cryptography, peer-to-peer networking, and fault-tolerant design can power secure, reliable, and resilient software.
+
+I enjoy learning by building, exploring the engineering behind decentralized technologies, and turning complex concepts into practical projects.
+
+### 🔭 Areas of Focus
+- ⛓️ **Blockchain:** Distributed ledgers, consensus mechanisms, and decentralized applications.
+- 🌐 **P2P Networking:** Communication and coordination between distributed nodes.
+- 🛡️ **Fault Tolerance:** Reliability, resilience, and recovery in distributed systems.
+- 🔐 **Cryptography:** The foundations of security and trust in decentralized networks.
+
+### 🛠️ Technologies
+- **Languages:** Go, Python, TypeScript
+- **Tools:** Git, GitHub, Linux
+- **Exploring:** Blockchain protocols, distributed architectures, and applied cryptography.
+
+### 🚀 What I'm Building
+I'm developing my skills through hands-on projects focused on peer-to-peer networks, fault-tolerant systems, and blockchain-related technologies.
+
+### 🎯 My Goal
+To build secure and resilient decentralized systems while growing as an engineer in the blockchain ecosystem.
+
+### 🤝 Let's Connect
+I'm open to collaborating on projects involving blockchain, distributed systems, cryptography, and decentralized applications.
+
+**Build. Learn. Innovate. Decentralize.**
 
 
 ## 🌐 Socials:
